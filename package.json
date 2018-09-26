@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xoxoaseka/mastodonBot.git"
+    "url": "git+https://github.com/xoxoaseka/bot.git"
   },
   "author": "Assel Dmitriyeva",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xoxoaseka/mastodonBot/issues"
+    "url": "https://github.com/xoxoaseka/bot/issues"
   },
-  "homepage": "https://github.com/xoxoaseka/mastodonBot#readme",
+  "homepage": "https://github.com/xoxoaseka/bBot#readme",
   "dependencies": {
     "mastodon-api": "^1.3.0"
   }
