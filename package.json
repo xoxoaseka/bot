@@ -1,0 +1,22 @@
+{
+  "name": "a2z_mastodon_example",
+  "version": "0.0.1",
+  "description": "example of mastodon",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoxoaseka/mastodonBot.git"
+  },
+  "author": "Assel Dmitriyeva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xoxoaseka/mastodonBot/issues"
+  },
+  "homepage": "https://github.com/xoxoaseka/mastodonBot#readme",
+  "dependencies": {
+    "mastodon-api": "^1.3.0"
+  }
+}
